@@ -53,3 +53,5 @@ personalizar el mensaje y el número, pudiendo adaptarlo según lo que se tenga 
 <p>Aquí puedes ver un video del funcionamiento de este componente.</p>
 
 [https://drive.google.com/file/d/1sy1M2mB4u0D06I_XWySolP78xnzdywAw/view?usp=drive_link](https://drive.google.com/file/d/1sy1M2mB4u0D06I_XWySolP78xnzdywAw/view?usp=sharing)
+
+<p>Hecho por: Cristhian Eduardo Bautista Gómez & Misael Cruz López.</p>
