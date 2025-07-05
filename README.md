@@ -1,0 +1,49 @@
+<h1 align="center"> Botón de Whatsapp Flotante </h1>
+
+<h3 align="center" style="font-style: bold">Descripción</h3>
+<p align="justify">Este componente es una opción muy útil para la parte del contacto en páginas web,
+ya que funciona de una manera muy singular y se adapta a cualquier página, siendo este,
+un botón flotante, el cúal puede desplazarse entre la página para poder acomodarlo a gusto
+del cliente, al presionar este botón, nos redirecciona a un enlace de whatsapp, el cual es
+un mensaje personalizado a un número personalizado, en este caso, seria pedir información
+al número de contacto de la página, ayudandonos a poder hacer más facil el trabajo de
+la comunicación con el vendedor. Al utilizarlo en nuestras páginas web, podremos
+personalizar el mensaje y el número, pudiendo adaptarlo según lo que se tenga que cubrir./p>
+
+<h3 align="center" style="font-style: bold"> Instalación </h3>
+
+![Descarga](https://github.com/user-attachments/assets/60dba1c6-aebe-4fa9-84df-f7e187422403)
+
+<p>Primero, se descarga el archivo comprimido en formato zip.</p>
+
+![DescargaFin](https://github.com/user-attachments/assets/10d7385d-9268-4564-a0bd-17174f759f38)
+
+<p>Esperamos a que termine de descargar y abrimos.</p>
+
+![Unzip](https://github.com/user-attachments/assets/7b54a499-583c-4096-8016-b175cf53bfa9)
+
+<p>Descomprimimos en alguna carpeta.</p>
+
+![Carpe](https://github.com/user-attachments/assets/1771e056-8d32-405c-94ab-65dc92b034e5)
+
+<p>Buscamos algun proyecto donde queramos incluirlo.</p>
+
+![Carpe1](https://github.com/user-attachments/assets/58448055-98d1-442d-9ce0-39ba4c5d0283)
+
+<p>Y movemos nuestros archivos del componente a las respectivas carpetas del proyecto a utilizar.</p>
+
+![Proyect](https://github.com/user-attachments/assets/7a6ef790-9c12-4c6e-beaa-7dbd39748093)
+
+<p>Una vez terminado, vemos que estan dentro de las carpetas correspondientes para poder ocuparlo.</p>
+
+![Code](https://github.com/user-attachments/assets/346a85b8-8f28-47c9-90c5-18431ff1a29d)
+
+<p>Importamos el archivo css para el estilo del botón.</p>
+
+![Code](https://github.com/user-attachments/assets/d3786f93-7609-4ac1-8fce-405731d69478)
+
+<p>Y al pie de de la estructura del cuerpo del código, ponemos el boton e importamos el archvio js para que funcione.</p>
+
+![Pag](https://github.com/user-attachments/assets/00768db7-6ff4-4856-9083-aff68f5c07f3)
+
+<p>Una vez guardado todo, procedemos a abrir la página para ver que ya aparece nuestro botón completamente funcional.</p>
