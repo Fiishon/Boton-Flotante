@@ -10,6 +10,8 @@ al número de contacto de la página, ayudandonos a poder hacer más facil el tr
 la comunicación con el vendedor. Al utilizarlo en nuestras páginas web, podremos
 personalizar el mensaje y el número, pudiendo adaptarlo según lo que se tenga que cubrir./p>
 
+<p>Este componente nos ayuda a tener una manera más dinámica de proporcionar nuestra información de contacto de la página y además, al ser personalizable, nos ayuda para cualquier red social u otra forma de contacto entre el cliente y el propietario.</p>
+
 <h3 align="center" style="font-style: bold"> Instalación </h3>
 
 ![Descarga](https://github.com/user-attachments/assets/60dba1c6-aebe-4fa9-84df-f7e187422403)
