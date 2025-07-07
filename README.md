@@ -12,24 +12,6 @@ personalizar el mensaje y el número, pudiendo adaptarlo según lo que se tenga 
 
 <p>Este componente nos ayuda a tener una manera más dinámica de proporcionar nuestra información de contacto de la página y además, al ser personalizable, nos ayuda para cualquier red social u otra forma de contacto entre el cliente y el propietario.</p>
 
-<h3 align="center" style="font-style: bold"> Instalación </h3>
-
-![Descarga](https://github.com/user-attachments/assets/60dba1c6-aebe-4fa9-84df-f7e187422403)
-
-<p>Primero, se descarga el archivo comprimido en formato zip.</p>
-
-![DescargaFin](https://github.com/user-attachments/assets/10d7385d-9268-4564-a0bd-17174f759f38)
-
-<p>Esperamos a que termine de descargar y abrimos.</p>
-
-![Unzip](https://github.com/user-attachments/assets/7b54a499-583c-4096-8016-b175cf53bfa9)
-
-<p>Descomprimimos en alguna carpeta.</p>
-
-![Carpe](https://github.com/user-attachments/assets/1771e056-8d32-405c-94ab-65dc92b034e5)
-
-<p>Buscamos algun proyecto donde queramos incluirlo.</p>
-
 ![Carpe1](https://github.com/user-attachments/assets/58448055-98d1-442d-9ce0-39ba4c5d0283)
 
 <p>Y movemos nuestros archivos del componente a las respectivas carpetas del proyecto a utilizar.</p>
